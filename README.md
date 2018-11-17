@@ -1,2 +1,2 @@
 # codecademy_Python
-All of Codecademy's Python lesson solutions in one repository
+All of my solutions for Codecademy's Python lessons in one repository
